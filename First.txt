@@ -1,0 +1,3 @@
+initial text:In order to use your git repository first you need to install Git.
+Once installed, we recommend initializing Git. Fire up your command line app such as Terminal (on Mac) or Git bash (on Windows) and run the following commands.
+
